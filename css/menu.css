@@ -1,0 +1,46 @@
+
+#menu {
+	width: 100%;
+	background-color: #ff9933;
+}
+
+
+#menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#menu li {
+	width: 160px;
+	height: 30px;
+	float:left;
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+#menu li a {
+	display: block;
+	height: 20px;
+	padding: 5px;
+	color: #808080;
+	text-align: center;
+	text-decoration: none;
+}
+
+#menu li a:hover {
+	background-color: #808080;
+	color: red;
+}
+
+/* Make background manu in FF */
+.clearfix:after{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;	
+}
+/*Hide from IE-mac \*/
+* html .clearfix {height: 1%;}
+/*End hide from IE-mac*/

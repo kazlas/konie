@@ -1,0 +1,20 @@
+#container {
+	min-height: 728px;
+	height: auto !important;
+	height: 728px;
+	background-image: url(../img/pension.jpg);
+	background-position: 50% 5px;
+	background-repeat: no-repeat;
+}
+
+#welcome {
+	color: #800;
+	background-color: #a5aa94;
+}
+
+#right {
+	min-height:295px;
+	filter: alpha(opacity=60);
+	opacity: 0.6;
+	background-color: #fff;
+}

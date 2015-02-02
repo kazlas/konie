@@ -1,0 +1,21 @@
+
+#container {
+	background-image: url(../img/gallery.jpg);
+	background-position: 50% 30px;
+}
+
+#welcome {
+	color: orange;
+	background-color: #424142;
+	margin-left: 0;
+}
+
+.pics {
+	background-color: #7b8a31;
+	width: 480px;
+	padding: 6px 6px 6px 6px;
+}
+
+.pics img {
+	margin: 3px;
+}

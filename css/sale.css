@@ -1,0 +1,11 @@
+
+#container {
+	background-image: url(../img/horse3.jpg);
+	background-position: center 30px;
+}
+
+#welcome {
+	color: orange;
+	background-color: #5c7694;
+}
+

@@ -1,0 +1,12 @@
+
+#container {
+	background-image: url(../img/agro.jpg);
+	background-position: 60% 20px;
+}
+
+#welcome {
+	color: #ccff33;
+	background-color: #737963;
+	margin-left: 0;
+}
+
